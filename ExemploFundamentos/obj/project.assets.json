@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\darkt\\Desktop\\Natasha\\XP-Inc.-Full-Stack-Developer\\XP-Inc.-Full-Stack-Developer.csproj",
-      "projectName": "XP-Inc.-Full-Stack-Developer",
-      "projectPath": "C:\\Users\\darkt\\Desktop\\Natasha\\XP-Inc.-Full-Stack-Developer\\XP-Inc.-Full-Stack-Developer.csproj",
+      "projectUniqueName": "C:\\Users\\darkt\\Desktop\\Natasha\\XP-Inc.-Full-Stack-Developer\\ExemploFundamentos\\ExemploFundamentos.csproj",
+      "projectName": "ExemploFundamentos",
+      "projectPath": "C:\\Users\\darkt\\Desktop\\Natasha\\XP-Inc.-Full-Stack-Developer\\ExemploFundamentos\\ExemploFundamentos.csproj",
       "packagesPath": "C:\\Users\\darkt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\darkt\\Desktop\\Natasha\\XP-Inc.-Full-Stack-Developer\\obj\\",
+      "outputPath": "C:\\Users\\darkt\\Desktop\\Natasha\\XP-Inc.-Full-Stack-Developer\\ExemploFundamentos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\darkt\\AppData\\Roaming\\NuGet\\NuGet.Config"
